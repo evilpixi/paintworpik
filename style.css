@@ -1,0 +1,10 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+canvas {
+  margin-top: 0px;
+  padding-top: 0px;
+}
